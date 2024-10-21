@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<examen>
+    <pregunta>
+        <texto>¿Cuál de los siguientes NO es un objeto nativo en JavaScript?</texto>
+        <opcion correcta="no">String</opcion>
+        <opcion correcta="no">Array</opcion>
+        <opcion correcta="si">Document</opcion>
+        <opcion correcta="no">Map</opcion>
+    </pregunta>
+    <pregunta>
+        <texto>¿Cuál de las siguientes NO es una declaración de bucle en JavaScript?</texto>
+        <opcion correcta="no">While</opcion>
+        <opcion correcta="si">Each</opcion>
+        <opcion correcta="no">Do-While</opcion>
+        <opcion correcta="no">For</opcion>
+    </pregunta>
+    <pregunta>
+        <texto>¿Qué hace el método push() en un array de JavaScript?</texto>
+        <opcion correcta="no">Elimina el último elemento del array</opcion>
+        <opcion correcta="no">Añade un elemento al inicio del array</opcion>
+        <opcion correcta="no">Invierte el orden de los elementos del array</opcion>
+        <opcion correcta="si">Añade uno o más elementos al final del array</opcion>
+    </pregunta>
+    <pregunta>
+        <texto>¿En qué formato se suelen enviar y recibir los datos en una solicitud AJAX?</texto>
+        <opcion correcta="si">JSON</opcion>
+        <opcion correcta="no">CSS</opcion>
+        <opcion correcta="no">HTML</opcion>
+        <opcion correcta="no">CSS</opcion>
+    </pregunta>
+    <pregunta>
+        <texto>¿Cuál de las siguientes NO es una forma de declarar variables en JavaScript?</texto>
+        <opcion correcta="si">Set</opcion>
+        <opcion correcta="no">Let</opcion>
+        <opcion correcta="no">Const</opcion>
+        <opcion correcta="no">Var</opcion>
+    </pregunta>
+    <pregunta>
+        <texto>¿Cuál de los siguientes métodos se utiliza para enviar una solicitud HTTP en AJAX?</texto>
+        <opcion correcta="no">SendRequest()</opcion>
+        <opcion correcta="no">AjaxRequest()</opcion>
+        <opcion correcta="si">Send()</opcion>
+        <opcion correcta="no">Open()</opcion>
+    </pregunta>
+    <pregunta>
+        <texto>¿Qué significa la palabra clave "this" en JavaScript?</texto>
+        <opcion correcta="si">El objeto actual en el que se está ejecutando el código</opcion>
+        <opcion correcta="no">El valor por defecto de cualquier variable no declarada</opcion>
+        <opcion correcta="no">El objeto global</opcion>
+        <opcion correcta="no">Ninguna es correcta</opcion>
+    </pregunta>
+    <pregunta>
+        <texto>¿Qué hace el método splice() en un array de JavaScript?</texto>
+        <opcion correcta="no">Invierte el orden de los elementos.</opcion>
+        <opcion correcta="no">Convierte el array en una cadena.</opcion>
+        <opcion correcta="no">Filtra los componentes del Array</opcion>
+        <opcion correcta="si">Elimina y/o agrega elementos en una posición específica</opcion>
+    </pregunta>
+    <pregunta>
+        <texto>¿Qué evento se utiliza para ejecutar una función cuando el usuario hace clic en un botón?</texto>
+        <opcion correcta="no">Onpress</opcion>
+        <opcion correcta="no">Onsubmit</opcion>
+        <opcion correcta="si">Onclick</opcion>
+        <opcion correcta="no">Onchange</opcion>
+    </pregunta>
+    <pregunta>
+        <texto>¿Qué método puedes usar para obtener la longitud de un array en JavaScript?</texto>
+        <opcion correcta="si">Length</opcion>
+        <opcion correcta="no">Length()</opcion>
+        <opcion correcta="no">Size()</opcion>
+        <opcion correcta="no">Count()</opcion>
+    </pregunta>
+</examen>
